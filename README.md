@@ -9,26 +9,3 @@ Source code is inside the `frontend` folder.
 ## Backend
 
 Source code is inside the `backend` folder.
-
-## Local Run
-
-### Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-### Backend
-
-```bash
-cd backend
-npm install
-npm start
-```
-
-## Deploy
-
-Frontend: Netlify  
-Backend: Render
